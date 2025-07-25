@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+appium-python-client
+selenium
+openai
+spacy
+webdriver-manager
